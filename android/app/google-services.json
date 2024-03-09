@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553027451239",
+    "project_id": "xpress-store-a0096",
+    "storage_bucket": "xpress-store-a0096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553027451239:android:4bc65a83d0f4045a3a97c2",
+        "android_client_info": {
+          "package_name": "com.example.xpress_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wVdFf5AtY_yOl4A2D1A-qg1cQjGp1IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
